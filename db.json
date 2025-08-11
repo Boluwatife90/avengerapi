@@ -133,9 +133,9 @@
     "id": 3,
     "catId": 1,
     "title": "Iron Man 2(2010)",
-    "movielink": "Ironman-2.jpg",
+    "movielink": "https://www.justwatch.com/in/movie/iron-man-2",
     "image": "Ironman-2.jpg",
-    "video": "https://www.justwatch.com/in/movie/iron-man-2",
+    "video": "Iron Man 2.mp4",
     "description": "With the world aware of his identity as Iron Man, Tony Stark faces pressure..."
   },
   {
@@ -383,5 +383,6 @@
     
   }
   
+
 
 
