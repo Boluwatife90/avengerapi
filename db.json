@@ -19,77 +19,78 @@
 
 
     "Mostwatched": [
-      {
-        "id": 1,
-        "catId": 1,
-        "title": "Iron Man(2008)",
-        "image": "Ironman-1.jpg",
-        "description": "The Beko BFFD3577 Integrated Tall Freezer has a 220-litre capacity that's ideal for larger households.\nIt also features six clear storage drawers that make it easy to organise your shopping. The two storage shelves give you even more space to store your family favourites.Fast FreezeNeed to quickly freeze your groceries? Select the fast freeze setting. It quickly freezes fresh food, preserving its taste and nutrients. Perfect for when you've just got back from the supermarket.\nFrost Free\nNo need to manually defrost the freezer thanks to the BFFD3577's Frost Free technology. This handy feature prevents ice build-up, saving you time and effort while freeing-up more storage space."
-      },
-      {
-        "id": 2,
-        "catId": 1,
-        "title": "Thor(2011)",
-        "image": "Thor-1.jpg",
-        "description": "The Beko BFFD3577 Integrated Tall Freezer has a 220-litre capacity that's ideal for larger households.\nIt also features six clear storage drawers that make it easy to organise your shopping. The two storage shelves give you even more space to store your family favourites.Fast FreezeNeed to quickly freeze your groceries? Select the fast freeze setting. It quickly freezes fresh food, preserving its taste and nutrients. Perfect for when you've just got back from the supermarket.\nFrost Free\nNo need to manually defrost the freezer thanks to the BFFD3577's Frost Free technology. This handy feature prevents ice build-up, saving you time and effort while freeing-up more storage space."
-      },
-      {
-        "id": 6,
-        "catId": 5,
-        "title": "Marvel’s The First Avengers (2012)",
-        "image": "The_Avengers-1.jpg",
-        "description": "The Beko BFFD3577 Integrated Tall Freezer has a 220-litre capacity that's ideal for larger households.\nIt also features six clear storage drawers that make it easy to organise your shopping. The two storage shelves give you even more space to store your family favourites.Fast FreezeNeed to quickly freeze your groceries? Select the fast freeze setting. It quickly freezes fresh food, preserving its taste and nutrients. Perfect for when you've just got back from the supermarket.\nFrost Free\nNo need to manually defrost the freezer thanks to the BFFD3577's Frost Free technology. This handy feature prevents ice build-up, saving you time and effort while freeing-up more storage space."
-      },
-      {
-          "id": 3,
-          "catId": 1,
-         "title": "Iron Man 2(2010)",
-        "image": "Ironman-2.jpg",
-          "description": "Chiller compartment\n\nGet more room for your weekly shop with the Beko BLSD3577 Integrated Tall Fridge. It offers 309 litres of storage space across 6 shelves, 5 door balconies and a large salad crisper.\n\nThe integrated chiller compartment stores your meat, fish and dairy products at a temperature of around 0 °C - ideal for keeping them fresh for longer.\n\nChrome wine rack\n\nWant extra shelf space? You can easily store soft drinks or bottles of wine on the wire rack.\n\nReversible doors\n\nFor those with smaller kitchens, reversible doors give you the flexibility to choose where you position the fridge.\n\nEasy to monitor\n\nAdjust the temperature easily with the touch controls. Try Quick Cool to rapidly lower the temperature or Holiday Mode if you're going away for a while.\n\nThe fridge will alert you when the door is left open, so you can rest assured that your groceries will stay fresh and chilled."
-         
-      },
-      {
-          "id": 5,
-          "catId": 1,
-         "title": "Captain America: The First Avenger",
-        "image": "CaptainAmerica-1.jpg"
-          
-      },
-      {
-        "id": 2,
-        "catId": 1,
-       "title": "The Incredible Hulk (2008)",
-      "image": "hulk-1.jpg"
-        
-    },
-    {
-      "id": 8,
-      "catId": 1,
-     "title": "Thor-2",
-    "image": "Thor-2.jpg"
-      
+       {
+    "id": 7,
+    "catId": 1,
+    "title": "Ironman-3",
+    "movielink": "https://www.justwatch.com/in/movie/iron-man-3",
+    "image": "Ironman-3.jpg",
+    "video": "111.mp4",
+    "description": "After the Battle of New York, Tony Stark struggles with anxiety..."
+  },
+  {
+    "id": 8,
+    "catId": 3,
+    "title": "Thor-2",
+    "movielink": "https://www.justwatch.com/in/movie/thor-the-dark-world",
+    "image": "Thor-2.jpg",
+    "video": "111.mp4",
+    "description": "Thor battles to restore peace across the Nine Realms..."
   },
   {
     "id": 9,
-    "catId": 1,
-   "title": "Captain America-2",
-  "image": "CaptainAmerica-2.jpg"
-    
-},
-{
-  "id": 10,
-  "catId": 1,
- "title": "Guardians of the galaxy 1",
-"image": "Guardiansofthegalaxy-1.jpg"
-  
-},
-{
-  "id": 7,
-  "catId": 1,
- "title": "Ironman-3",
-"image": "Ironman-3.jpg"
-  
-}
+    "catId": 4,
+    "title": "Captain America-2",
+    "movielink": "https://www.justwatch.com/in/movie/captain-america-the-winter-soldier",
+    "image": "CaptainAmerica-2.jpg",
+    "video": "111.mp4",
+    "description": "Steve Rogers, now working for S.H.I.E.L.D., struggles to adjust..."
+  },
+  {
+    "id": 10,
+    "catId": 6,
+    "title": "Guardians of the galaxy 1",
+    "movielink": "https://www.justwatch.com/in/movie/guardians-of-the-galaxy",
+    "image": "Guardiansofthegalaxy-1.jpg",
+    "video": "111.mp4",
+    "description": "Space adventurer Peter Quill, also known as Star-Lord, steals a mysterious orb..."
+  },
+  {
+    "id": 15,
+    "catId": 6,
+    "title": "GotG-2",
+    "movielink": "https://www.justwatch.com/in/movie/guardians-of-the-galaxy-vol-2",
+    "video": "111.mp4",
+    "image": "GotG-2.jpg",
+    "description": "The Guardians—Star-Lord, Gamora, Drax, Rocket, and Baby Groot—are hired for a mission..."
+  },
+  {
+    "id": 11,
+    "catId": 5,
+    "title": "Avengers 2",
+    "movielink": "https://www.justwatch.com/in/movie/avengers-age-of-ultron",
+    "image": "Avenger-2.jpg",
+    "video": "111.mp4",
+    "description": "The Avengers retrieve Loki’s scepter but accidentally create a powerful AI..."
+  },
+  {
+    "id": 12,
+    "catId": 7,
+    "title": "Antman-1",
+    "movielink": "https://www.justwatch.com/in/movie/ant-man",
+    "image": "Antman-1.jpg",
+    "video": "111.mp4",
+    "description": "Scott Lang, a skilled thief trying to turn his life around..."
+  },
+  {
+    "id": 13,
+    "catId": 4,
+    "title": "Captainamerica-3",
+    "movielink": "https://www.justwatch.com/in/movie/captain-america-civil-war",
+    "video": "111.mp4",
+    "image": "Captainamerica-3.jpg",
+    "description": "After a mission goes wrong, the government proposes the Sokovia Accords..."
+  }
 
     ],
    "Allmovie": [
@@ -383,6 +384,7 @@
     
   }
   
+
 
 
 
